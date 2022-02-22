@@ -33,7 +33,7 @@ html {
 	font-style: normal;
 }
 body {
-  font-family: 'Computer Modern','Droid Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Computer Modern Serif','Droid Sans', Helvetica, Arial, sans-serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
